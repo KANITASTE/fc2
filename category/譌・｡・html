@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>カテゴリ: 旅行 — かに風味ブログ</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+<div class="mobile-header">
+  <a class="brand" href="../index.html">かに風味ブログ</a>
+  <button class="hamburger" id="hamburger" aria-label="メニュー">
+    <span></span><span></span><span></span>
+  </button>
+</div>
+<div class="sidebar-overlay" id="sidebar-overlay"></div>
+<div class="site-wrapper">
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-brand">
+      <a href="../index.html">かに風味ブログ</a>
+      <div class="tagline">日々のきろく</div>
+    </div>
+    <nav class="sidebar-nav">
+  <h3>カテゴリ</h3>
+  <ul>
+    <li><a href="../index.html">すべて</a></li>
+    <li><a href="../category/2011パリ.html">2011パリ <span class="count">6</span></a></li>
+<li><a href="../category/photo.html">photo <span class="count">6</span></a></li>
+<li><a href="../category/twitter.html">twitter <span class="count">19</span></a></li>
+<li><a href="../category/かいもの.html">かいもの <span class="count">10</span></a></li>
+<li><a href="../category/かに.html">かに <span class="count">5</span></a></li>
+<li><a href="../category/たべもの.html">たべもの <span class="count">70</span></a></li>
+<li><a href="../category/ねこ.html">ねこ <span class="count">18</span></a></li>
+<li><a href="../category/まちあるき.html">まちあるき <span class="count">21</span></a></li>
+<li><a href="../category/イベント.html">イベント <span class="count">20</span></a></li>
+<li><a href="../category/ゴルフ.html">ゴルフ <span class="count">1</span></a></li>
+<li><a href="../category/ビーチコーミング.html">ビーチコーミング <span class="count">68</span></a></li>
+<li><a href="../category/ポタリング.html">ポタリング <span class="count">4</span></a></li>
+<li><a href="../category/ワイン.html">ワイン <span class="count">5</span></a></li>
+<li><a href="../category/入院.html">入院 <span class="count">3</span></a></li>
+<li><a href="../category/台北留学.html">台北留学 <span class="count">14</span></a></li>
+<li><a href="../category/山菜.html">山菜 <span class="count">1</span></a></li>
+<li><a href="../category/思ったり思わなかったり.html">思ったり思わなかったり <span class="count">62</span></a></li>
+<li><a href="../category/旅行.html">旅行 <span class="count">38</span></a></li>
+<li><a href="../category/未分類.html">未分類 <span class="count">28</span></a></li>
+
+  </ul>
+</nav>
+<nav class="sidebar-nav">
+  <h3>月別アーカイブ</h3>
+  <div class="archive-list">
+    <ul><li><a href="../archive/2019-03.html">2019年3月 <span class="count">2</span></a></li>
+<li><a href="../archive/2019-02.html">2019年2月 <span class="count">4</span></a></li>
+<li><a href="../archive/2012-05.html">2012年5月 <span class="count">1</span></a></li>
+<li><a href="../archive/2011-11.html">2011年11月 <span class="count">1</span></a></li>
+<li><a href="../archive/2011-10.html">2011年10月 <span class="count">5</span></a></li>
+<li><a href="../archive/2011-08.html">2011年8月 <span class="count">5</span></a></li>
+<li><a href="../archive/2011-07.html">2011年7月 <span class="count">3</span></a></li>
+<li><a href="../archive/2011-06.html">2011年6月 <span class="count">5</span></a></li>
+<li><a href="../archive/2011-05.html">2011年5月 <span class="count">2</span></a></li>
+<li><a href="../archive/2011-04.html">2011年4月 <span class="count">5</span></a></li>
+<li><a href="../archive/2011-03.html">2011年3月 <span class="count">1</span></a></li>
+<li><a href="../archive/2011-01.html">2011年1月 <span class="count">4</span></a></li>
+<li><a href="../archive/2010-12.html">2010年12月 <span class="count">4</span></a></li>
+<li><a href="../archive/2010-11.html">2010年11月 <span class="count">3</span></a></li>
+<li><a href="../archive/2010-10.html">2010年10月 <span class="count">3</span></a></li>
+<li><a href="../archive/2010-09.html">2010年9月 <span class="count">4</span></a></li>
+<li><a href="../archive/2010-08.html">2010年8月 <span class="count">5</span></a></li>
+<li><a href="../archive/2010-07.html">2010年7月 <span class="count">8</span></a></li>
+<li><a href="../archive/2010-06.html">2010年6月 <span class="count">25</span></a></li>
+<li><a href="../archive/2010-05.html">2010年5月 <span class="count">9</span></a></li>
+<li><a href="../archive/2010-03.html">2010年3月 <span class="count">4</span></a></li>
+<li><a href="../archive/2010-02.html">2010年2月 <span class="count">6</span></a></li>
+<li><a href="../archive/2010-01.html">2010年1月 <span class="count">6</span></a></li>
+<li><a href="../archive/2009-12.html">2009年12月 <span class="count">4</span></a></li>
+<li><a href="../archive/2009-11.html">2009年11月 <span class="count">2</span></a></li>
+<li><a href="../archive/2009-10.html">2009年10月 <span class="count">15</span></a></li>
+<li><a href="../archive/2009-09.html">2009年9月 <span class="count">5</span></a></li>
+<li><a href="../archive/2009-08.html">2009年8月 <span class="count">5</span></a></li>
+<li><a href="../archive/2009-07.html">2009年7月 <span class="count">7</span></a></li>
+<li><a href="../archive/2009-06.html">2009年6月 <span class="count">10</span></a></li>
+<li><a href="../archive/2009-05.html">2009年5月 <span class="count">13</span></a></li>
+<li><a href="../archive/2009-04.html">2009年4月 <span class="count">3</span></a></li>
+<li><a href="../archive/2009-03.html">2009年3月 <span class="count">12</span></a></li>
+<li><a href="../archive/2009-02.html">2009年2月 <span class="count">4</span></a></li>
+<li><a href="../archive/2009-01.html">2009年1月 <span class="count">15</span></a></li>
+<li><a href="../archive/2008-12.html">2008年12月 <span class="count">15</span></a></li>
+<li><a href="../archive/2008-11.html">2008年11月 <span class="count">15</span></a></li>
+<li><a href="../archive/2008-10.html">2008年10月 <span class="count">12</span></a></li>
+<li><a href="../archive/2008-09.html">2008年9月 <span class="count">19</span></a></li>
+<li><a href="../archive/2008-08.html">2008年8月 <span class="count">7</span></a></li>
+<li><a href="../archive/2008-07.html">2008年7月 <span class="count">6</span></a></li>
+<li><a href="../archive/2008-06.html">2008年6月 <span class="count">5</span></a></li>
+<li><a href="../archive/2008-05.html">2008年5月 <span class="count">2</span></a></li>
+<li><a href="../archive/2008-04.html">2008年4月 <span class="count">5</span></a></li>
+<li><a href="../archive/2008-03.html">2008年3月 <span class="count">6</span></a></li>
+<li><a href="../archive/2008-02.html">2008年2月 <span class="count">4</span></a></li>
+<li><a href="../archive/2008-01.html">2008年1月 <span class="count">10</span></a></li>
+<li><a href="../archive/2007-12.html">2007年12月 <span class="count">2</span></a></li>
+<li><a href="../archive/2007-11.html">2007年11月 <span class="count">2</span></a></li>
+<li><a href="../archive/2007-10.html">2007年10月 <span class="count">2</span></a></li>
+<li><a href="../archive/2007-09.html">2007年9月 <span class="count">4</span></a></li>
+<li><a href="../archive/2007-08.html">2007年8月 <span class="count">7</span></a></li>
+<li><a href="../archive/2007-07.html">2007年7月 <span class="count">3</span></a></li>
+<li><a href="../archive/2007-06.html">2007年6月 <span class="count">6</span></a></li>
+<li><a href="../archive/2007-05.html">2007年5月 <span class="count">6</span></a></li>
+<li><a href="../archive/2007-04.html">2007年4月 <span class="count">17</span></a></li>
+<li><a href="../archive/2007-03.html">2007年3月 <span class="count">20</span></a></li>
+<li><a href="../archive/2007-02.html">2007年2月 <span class="count">14</span></a></li>
+</ul>
+  </div>
+</nav>
+  </aside>
+  <main class="main-content">
+    <div class="breadcrumb">
+  <a href="../index.html">ホーム</a><span class="sep">/</span>旅行
+</div>
+<h1 class="page-title">カテゴリ: 旅行</h1>
+<ul class="post-list"><li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2019年03月01日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/398.html">ファーストクラスとバリのゾンビタクシー②</a></h2>
+  <p class="post-excerpt">我々は浮かれていた。
+いや、マイルでファーストクラスに乗るひとは必ず浮かれるだろうけど。
+バリ行きは午前便。
+カウンターが開く前から空港に到着し、ファーストクラスカウンター前のソファーでそわそわしてい…</p>
+  <div class="post-card-thumb"><img src="../images/20190301224111350s.jpeg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2019年02月24日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/397.html">ファーストクラスとバリのソンビタクシー①</a></h2>
+  <p class="post-excerpt">8年間…色々あったなー！と、ひとつひとつ思い出しては頭の中のノートに草稿を書き出してみるものの、年月によって記憶の色彩は色あせて、劣化していくのはまだしも、テレビやインターネット上の溢れんばかりの情報…</p>
+  <div class="post-card-thumb"><img src="../images/20190224234658e8ds.jpeg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2011年01月02日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/362.html">狂食祭</a></h2>
+  <p class="post-excerpt">仕事納め後、狂食祭に突入いたしました。
+祭り会場は九州宮崎。
+
+というわけで、まずはイタリアン。アクアミネラーレ。クリスマスワイン会。
+
+
+フォアグラクリームのシュー、生牡蠣、キッシュ、ローストビーフ…</p>
+  <div class="post-card-thumb"><img src="../images/110102-07.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2010年12月17日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/360.html">カニの金沢(1)タレルのガスオーブン（ガスワークス）</a></h2>
+  <p class="post-excerpt">カニ友達とカニ食べ突貫金沢紀行。
+
+羽田ー小松って初めて利用したけど、ちょっとしか飛行時間めちゃくちゃ短いのねー。
+シートベルト着用サインが消えている時間の短いこと…
+
+というわけで、ちょっとだけ観光…</p>
+  <div class="post-card-thumb"><img src="../images/101205-01.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2010年07月07日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/341.html">台湾　変身写真</a></h2>
+  <p class="post-excerpt">1ヶ月前の台湾旅行。
+こっそり変身写真なるものに挑戦してました。えへへ。
+
+アルバムがようやく届いたのだけど、あははー立派にレタッチ入れられてるわー。
+私も仕事でフォトレタッチ作業を行うものだから、レ…</p>
+  <div class="post-card-thumb"><img src="../images/100707-01.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2010年06月10日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/314.html">台北4</a></h2>
+  <p class="post-excerpt">さて最終日。
+昨晩は「ゴ」が出なかったみたい。ちょっと肌寒かったせいかなー…とその代わり起きたらノドが痛い。
+あー！風邪引きはじめだー。
+
+というわけで、薬局でトローチ購入。
+錠剤のパックが毒色ですが…</p>
+  <div class="post-card-thumb"><img src="../images/DSC_1129.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2010年06月10日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/313.html">台北3</a></h2>
+  <p class="post-excerpt">さて3日目です。
+昨晩も、ドミトリーの女の子たちが「ゴ」の方とお戯れ。
+
+まーこんな感じのとこだから「ゴ」のお方も大所帯だろーなー
+
+
+MRTに乗って西門に移動
+
+
+招き猫。結構店の前とかでみかける。…</p>
+  <div class="post-card-thumb"><img src="../images/DSC_1079.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2010年06月10日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/312.html">台北2</a></h2>
+  <p class="post-excerpt">台北2日目です。
+昨晩は、早々に寝たのだけど、夜中、ドミトリーの女の子がきゃあきゃあ言っている声で目が覚めた。
+どーも「ゴ」の方がお出ましになった様子。
+キッチンは清潔とは言えない感じだったもんなー。…</p>
+  <div class="post-card-thumb"><img src="../images/DSC_1007.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2010年06月10日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/311.html">ぶらり台湾・台北</a></h2>
+  <p class="post-excerpt">JALのマイレージが直近で1万5千マイルほど消失することが判明し、急遽出掛けてまいりました。
+期限マイル分を使おうとゆーことで、行き先は台北。
+成田では特に見るものもないので、ギリギリチェックインして…</p>
+  <div class="post-card-thumb"><img src="../images/DSC_0955.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2010年03月30日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/300.html">直島観光2005-2010+犬島</a></h2>
+  <p class="post-excerpt">ようやくUPいたしました。直島観光リニューアル。
+
+
+
+今回は犬島観光も！
+
+≫こちらから直島観光</p>
+  <div class="post-card-thumb"><img src="../images/naoshima0329.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2010年02月01日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/292.html">不思議なプロペラ</a></h2>
+  <p class="post-excerpt">先日、プロペラ機DHC8-Q400に乗ってきました。
+プロペラはギリシャのミコノスに行った時以来かも。
+
+あまり評判のよくないボンバルディア機だったけど、乗り心地は上々。揺れも少なめなような。
+もとも…</p>
+  
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年12月13日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/282.html">こないだフェリー</a></h2>
+  <p class="post-excerpt">先日の旅行のことをすこし。
+メインは直島観光だったのだけど、こちらの記録は別途また「直島観光2010」としてまとめる予定として、その他のことをすこし。といっても、旅のほとんどは船に乗っていて、どっかに…</p>
+  <div class="post-card-thumb"><img src="../images/DSC_0004.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年12月01日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/281.html">フクロウ三昧</a></h2>
+  <p class="post-excerpt">しばらく放置しておりました。
+一度放置するとなかなか書くきっかけを失うものですねー。…と言い訳してみたりして…
+ちょっと変な旅をしてました。
+ヘンと言っても、まー国内なのでたかがしれているのだけど、飛…</p>
+  <div class="post-card-thumb"><img src="../images/kacho01.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年07月27日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/252.html">&amp;gt;まっちゃんさま</a></h2>
+  <p class="post-excerpt">鉄道が好き…とゆーほどではないけど、けっこう過去の旅行では鉄道を利用している。
+うんと若いときは18切符で大垣夜行かムーンライトながらで遠出をよくしてた。
+むんむんとした車内で一晩すごして、明け方すぎ…</p>
+  <div class="post-card-thumb"><img src="../images/DSC_0315.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年07月25日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/251.html">&amp;gt;mimiさま</a></h2>
+  <p class="post-excerpt">そんなわけで初日。
+初日のポイントは「はやとの風」「しんぺい」という観光列車に乗るとゆーこと。肥薩線の風光明媚な車窓風景を楽しみながら、九州駅弁No.1に輝いた「かれい川」とゆー駅弁を食べる。
+天気は…</p>
+  <div class="post-card-thumb"><img src="../images/DSC_0078.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年07月22日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/250.html">女子鉄！(2)</a></h2>
+  <p class="post-excerpt">さて、2日目です。
+昨日は、最後の鈍行でかなり疲労困憊だったのだけど、どうにか早朝起床！
+始発から飛ばしますヨ！
+2日目のテーマはVIP。
+グリーン車で大分まで行き、ゆふいんの森号で博多。
+んでもって…</p>
+  <div class="post-card-thumb"><img src="../images/DSC_0228.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年06月15日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/239.html">台湾からかえる</a></h2>
+  <p class="post-excerpt">恐ろしいことに朝7時の便ですよ…
+ホテルのおねーさんもびっくりしてましたよ…
+
+
+ラウンジも貸し切りですよ
+
+
+ホテルは朝食付きだったのだけど、食べられず、サンドイッチを作ってくれました。
+いいホテル…</p>
+  <div class="post-card-thumb"><img src="../images/IMGP0749.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年06月15日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/238.html">台湾</a></h2>
+  <p class="post-excerpt">というわけで、台湾到着。
+柿男子がお出迎え。WiFiの広告大使（？）のよーだけど。
+柿って台湾では縁起のよい象徴のひとつみたい。でも、これはどーなんだろか。
+なんだか一日中フリーのWiFiスポットでネ…</p>
+  <div class="post-card-thumb"><img src="../images/IMGP0648.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年06月01日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/237.html">行列すごい…すごすぎる…</a></h2>
+  <p class="post-excerpt">旅のあれこれをぽちぽちUPちゅうです。まだ途中です。
+ぜんぶUPが終われば、この記事を消す予定ですー。って忘れそうだな…UP終了です！
+そいえば、あちこちからインフル大丈夫～？と言われてましたが大丈夫…</p>
+  
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年05月31日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/236.html">CDG→TPE</a></h2>
+  <p class="post-excerpt">パリの一週間も終わり。
+CDG空港に戻ってまいりました。免税店を覗きたいとこでもあるけどユーロが強くてなんもかんも高いから早々にラウンジに。
+素っ気ない倉庫の入り口みたいなトコにあって、ベルを慣らさな…</p>
+  <div class="post-card-thumb"><img src="../images/IMGP0624.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年05月31日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/235.html">その他街あるき</a></h2>
+  <p class="post-excerpt">なんだかんだで1週間いたので、目的もなく町歩きできたのが良かったな。
+アレしなきゃコレしなきゃ、ドコ行かなきゃ、ソコ行かなきゃってばかりの旅はやっぱし疲れる。
+一日ぐらい「なんにも予定のない日」ってゆ…</p>
+  <div class="post-card-thumb"><img src="../images/090531-02.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年05月27日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/234.html">Re</a></h2>
+  <p class="post-excerpt">2日目から部屋を移動。
+天窓のあるステュディオ。バトミントンができるぐらい広くて天井が高い。
+80%ぐらいIKEA商品で構成されてます（ワタクシ調べ）
+
+ミロの絵画っぽい部屋。
+暖房×3、キッチン、冷…</p>
+  <div class="post-card-thumb"><img src="../images/IMGP0247.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年05月27日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/233.html">バスティーユ骨董市</a></h2>
+  <p class="post-excerpt">今回の旅行でたのしみにしたのが骨董市
+まずはモントレイユの市
+
+って！骨董なのかーこれはー
+とゆーよーなガラクタが多いー。わけのわからないケーブルとかパイプとかネジとか。
+モントレイユの市は生活密着系…</p>
+  <div class="post-card-thumb"><img src="../images/DSC_0578.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年05月27日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/232.html">オペラ座とか</a></h2>
+  <p class="post-excerpt">オペラガルニエ。
+通称日本人通りの先にあるので、○○観光とか○○ツアーとかのワッペンを付けた方々が多く見られますル。
+でも、ホントにヴィトンの紙袋をぶら下げている日本女子がいるのには驚いた。
+たぶん台…</p>
+  <div class="post-card-thumb"><img src="../images/IMGP0507.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年05月25日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/231.html">シテ島とかポンピドゥーとか</a></h2>
+  <p class="post-excerpt">シテ島に。
+前回シテにはどーゆーわけかコンシェルジェリーとゆー監獄メインで行ってしまったので
+サントシャペルをみてなかったのでした。
+ガイドブックとかにもコンシェルジェリーより、星が多いんだけどなー
+…</p>
+  <div class="post-card-thumb"><img src="../images/IMGP0443.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年05月25日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/230.html">ベルサイユとかオルセーとか</a></h2>
+  <p class="post-excerpt">ベルサイユです。
+ちいさいときに、アニメ「ベルサイユのバラ」を見て
+「これはエッチなやつだ！」「わるいオトナのやつだ！」と思いながら見ていたワタシ。
+あの、裸＆薔薇が絡まるオープニングはあまりにも衝撃…</p>
+  <div class="post-card-thumb"><img src="../images/IMGP0340.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年05月25日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/229.html">ルーブル</a></h2>
+  <p class="post-excerpt">ルーブルです。
+美術館といえばルーブル。
+あれこれ美術の教科書にのっている作品があるルーブル。
+
+とにかく広いとしか言いようがないよー！
+
+ああ…時差ぼけ。
+
+仲良し親子のコンポジション。
+
+
+
+ガラ…</p>
+  <div class="post-card-thumb"><img src="../images/IMGP0255.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年05月25日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/228.html">オランジュリー</a></h2>
+  <p class="post-excerpt">いきなり初日からオランジュリーに。
+行くつもりなかったけど、ミュージアムパスを買うついでに入っちゃった。
+パリに行きたかった理由の一つがこのオランジュリーだったのだけどさて。
+
+
+
+
+
+
+
+
+地中美術…</p>
+  <div class="post-card-thumb"><img src="../images/IMGP0223.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年05月25日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/227.html">TPE→CDG</a></h2>
+  <p class="post-excerpt">朝はウーロンティー
+
+
+フルーツとかサラダとか出て。
+
+
+やっぱりお粥だー！おいしい！
+このオボロみたいなのってなんだー。けっきょくちょこっとしか食べなかった。
+
+
+CDG空港2タミ？
+味のある空港。…</p>
+  <div class="post-card-thumb"><img src="../images/IMGP0188.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年05月25日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/226.html">台北行き</a></h2>
+  <p class="post-excerpt">ひさしぶりの旅行です。
+トーキョーのお仕事中、「あーどっか行きたいどっか行きたい」と念仏唱え、よーやく這々の体で片付け倒して、よーやく。
+と、思ったら、新型インフル騒動。
+行けるか？行けるのか？行って…</p>
+  <div class="post-card-thumb"><img src="../images/IMGP0071_20090519175613.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年05月20日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/225.html">&amp;gt;しのやん</a></h2>
+  <p class="post-excerpt">なんだかんだで、到着してます。パリ。
+
+過去２回フランスには来ているものの、ルーブルも、ベルサイユも行ったことが無かったので、とりあえずフツーの観光してます。
+でも、滞在1週間の予定なので、ホテルでは…</p>
+  <div class="post-card-thumb"><img src="../images/090509-01.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2009年05月06日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/224.html">たびってます</a></h2>
+  <p class="post-excerpt">間があいちゃいましたー。
+
+仕事に燃え尽き炭となって、よーやく動けるよーになったかなーとゆーわけで、旅に出ております。
+今は、トランジットで台北桃園空港でチャーハン食べたり、ビール飲んだり。
+このあと…</p>
+  <div class="post-card-thumb"><img src="../images/IMGP0084.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2008年06月04日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/114.html">&amp;gt;mimi_daikonさま</a></h2>
+  <p class="post-excerpt">2日目です。
+馬刺しと芥子蓮根で飲み過ぎて、ちょっとダルー。
+＆雨なので、デジカメ持たず、ケータイで撮影ですー。
+本日のバスはJRバス。なんか広くてきれいかもー。でもトイレ横の席はなんかイヤー。 
+
+…</p>
+  <div class="post-card-thumb"><img src="../images/fuku0805-01.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2008年06月02日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/112.html">ちょびっと日帰り</a></h2>
+  <p class="post-excerpt">九州3日間バス乗り放題1万円とゆーのがあると知り、ちょびっと旅行。
+長距離高速バスに乗るの久しぶりだー。
+結構ゆったり目でらくちん。
+なぜか一番前の席だった。一番前の席って、足が伸ばせないから
+あんま…</p>
+  <div class="post-card-thumb"><img src="../images/kuma0805-01.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2007年08月09日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/68.html">川俣　観光</a></h2>
+  <p class="post-excerpt">たびたび宮崎。
+んがしかし、大型台風接近とな！
+いつもなら、「まーでも飛行機飛ぶだろーなー…」と、なんの根拠もない確信をもつ普段のワタクシなのだけど、なんの虫の知らせか、前日になってすべての仕事をキャ…</p>
+  <div class="post-card-thumb"><img src="../images/070717-00.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2007年07月17日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/66.html">&amp;gt;まっちゃんさん</a></h2>
+  <p class="post-excerpt">無事宮崎から帰ってまいりましたー。
+
+台風を満喫。
+また後ほど旅日記をUPいたしますー。
+にしてもやっぱり宮崎の台風は味わいが違います。</p>
+  <div class="post-card-thumb"><img src="../images/070716-01.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2007年07月13日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/64.html">あしたから</a></h2>
+  <p class="post-excerpt">台風接近の宮崎に行ってきますー。
+ちょいとレスが遅れたりメールのお返事が遅れるかもしれませんが、
+よろしくお願いいたします。。。
+
+皆様も台風接近お気をつけくださいませ！
+
+では行ってきまーす！
+
+お…</p>
+  <div class="post-card-thumb"><img src="../images/taifu-family.jpg" alt="" loading="lazy"></div>
+</li>
+<li class="post-card">
+  <div class="post-card-meta">
+    <span class="post-date">2007年05月17日</span>
+    <a class="post-category-tag" href="../category/旅行.html">旅行</a>
+  </div>
+  <h2 class="post-card-title"><a href="../posts/55.html">&amp;gt;まっちゃんさん</a></h2>
+  <p class="post-excerpt">再び宮崎へ。
+この季節は伊勢海老の内子を食べることができたり、日本一の豆ご飯を食べることができたりして良い季節なのです。
+
+しかしGWに九州まで飛行機に乗るとゆーのは、体力、そして財力を逼迫する地獄行…</p>
+  <div class="post-card-thumb"><img src="../images/miyazaki0705-12.jpg" alt="" loading="lazy"></div>
+</li></ul>
+    <footer class="site-footer">© かに風味ブログ　アーカイブ</footer>
+  </main>
+</div>
+<script src="../js/main.js"></script>
+</body>
+</html>
